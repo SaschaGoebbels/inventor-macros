@@ -1,0 +1,2 @@
+﻿InventorVb.RunMacro("ApplicationProject", "DPN_Update", "A_DisplayNameUpdate")	
+'InventorVb.RunMacro("DisplayNameUpdate", "DPN_Update", "DisplayNameUpdate")
